@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srikathyayini
 - 👀 I’m interested in full stack
-- 🌱 I’m currently learning front end development
+  
 
 
 <!---
